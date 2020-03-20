@@ -1,0 +1,15 @@
+{
+  "name": "com.discoverstudios.networking",
+  "version": "1.0.0",
+  "displayName": "DiscoverStudios.Networking",
+  "description": "Simple set of scripts to help connect devices across a local network",
+  "unity": "2019.1",
+  "keywords": [
+    "Networking"
+  ],
+  "author": {
+    "name": "DiscoverStudios ltd",
+    "email": "info@discoverstudios.co.uk",
+    "url": "https://www.discoverstudios.co.uk"
+  }
+}
